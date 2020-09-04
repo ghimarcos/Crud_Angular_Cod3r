@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC preta",
+      "price": 3.5
+    },
+    {
+      "id": 2,
+      "name": "Caneta BIC azul",
+      "price": 3.5
+    },
+    {
+      "id": 3,
+      "name": "Galaxy S8",
+      "price": 1250.99
+    },
+    {
+      "id": 4,
+      "name": "Notebook i5 8 Geração 8GB ",
+      "price": 3200
+    },
+    {
+      "name": "Geladeira",
+      "price": "1913.99",
+      "id": 5
+    }
+  ]
+}
