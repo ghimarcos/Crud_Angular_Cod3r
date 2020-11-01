@@ -10,12 +10,13 @@
 }
 
 .header .logo{
-    max-height: 32px;
+    max-height: 80px;
 
 }
 
 .header .title-group{
     padding-left: 15px;
+    color: #68686b;
 }
 
 .header .title-group i{
